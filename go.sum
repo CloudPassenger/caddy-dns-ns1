@@ -917,6 +917,14 @@ github.com/BurntSushi/toml v1.3.2/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbi
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/CloudPassenger/libdns-ns1 v0.0.0-20240314130853-3458920e4123 h1:AxWrYcVYh2K36uP2QA9MDsxMuSfhIq88V4a/FQMsqXg=
 github.com/CloudPassenger/libdns-ns1 v0.0.0-20240314130853-3458920e4123/go.mod h1:hb+4RplVHGt8tYdXTf/DCZoMGUOGrnelMMuWaGGQwC8=
+github.com/CloudPassenger/libdns-ns1 v0.0.0-20240314141418-aa18ef3824f1 h1:pOJWbkSqz8nIfqZSv6hfnFKgS8M0FAr+bmOrT2sEItk=
+github.com/CloudPassenger/libdns-ns1 v0.0.0-20240314141418-aa18ef3824f1/go.mod h1:hb+4RplVHGt8tYdXTf/DCZoMGUOGrnelMMuWaGGQwC8=
+github.com/CloudPassenger/libdns-ns1 v0.0.0-20240314143250-7d96c7d3c552 h1:5YtCQtpvHuxf/y9Z6MiOUaNU+2VnRT9G1tJKhNNG0zE=
+github.com/CloudPassenger/libdns-ns1 v0.0.0-20240314143250-7d96c7d3c552/go.mod h1:hb+4RplVHGt8tYdXTf/DCZoMGUOGrnelMMuWaGGQwC8=
+github.com/CloudPassenger/libdns-ns1 v0.0.0-20240314143734-cee02c31ee1d h1:64i/3ED29LeiZrUF1f4CZnAG4lmaGoSWfmEt7cEyzmg=
+github.com/CloudPassenger/libdns-ns1 v0.0.0-20240314143734-cee02c31ee1d/go.mod h1:hb+4RplVHGt8tYdXTf/DCZoMGUOGrnelMMuWaGGQwC8=
+github.com/CloudPassenger/libdns-ns1 v0.0.0-20240314144404-7225d1ed7976 h1:JqMnryz5eqgK2wASJuIvxwtZd550g6BeYTkF7S8/usQ=
+github.com/CloudPassenger/libdns-ns1 v0.0.0-20240314144404-7225d1ed7976/go.mod h1:hb+4RplVHGt8tYdXTf/DCZoMGUOGrnelMMuWaGGQwC8=
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/DataDog/zstd v1.4.1/go.mod h1:1jcaCB/ufaK+sKp1NBhlGmpz41jOoPQ35bpF36t7BBo=
 github.com/GeertJohan/go.incremental v1.0.0/go.mod h1:6fAjUhbVuX1KcMD3c8TEgVUqmo4seqhv0i0kdATSkM0=
